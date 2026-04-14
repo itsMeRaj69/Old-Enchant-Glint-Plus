@@ -1,6 +1,8 @@
 # Old Enchant Glint Plus
 
-![Showchase](https://cdn.modrinth.com/data/xayK2IoV/images/de904552dd8811e0130f1553e1b4bcff8bd3ea62_350.webp)
+[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/resourcepack/old-enchant-glint-plus+)
+
+![Glint Showchase](https://cdn.modrinth.com/data/xayK2IoV/images/50a62b2724e4eaa0fde6c2dea348fe45d9930b12.png)
 
 Brings back the old enchantment glint from versions before 1.19.4, which was changed in 1.19.4 and newer.
 
