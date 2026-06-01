@@ -1,0 +1,21 @@
+# Archives / release builds
+*.zip
+*.rar
+*.7z
+
+# Temporary files
+*.tmp
+*.bak
+*.old
+*.log
+
+# Folders
+.cache/
+temp/
+backup/
+backups/
+
+# Minecraft / launcher junk
+.minecraft/
+logs/
+crash-reports/
